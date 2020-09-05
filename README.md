@@ -2,3 +2,4 @@
 Simple Note Taker
 
 * Develop folder
+* Added server.js
